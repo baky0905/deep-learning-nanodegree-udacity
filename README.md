@@ -6,7 +6,7 @@ This repository contains one reviewed projects which of **Udacity's Nanodegree  
 
 
 
-### **Model Evaluation Validation: Predicting Boston Housing Prices**
+### **CNN Project: Dog Breed Classifier**
 
 Project Overview
 
